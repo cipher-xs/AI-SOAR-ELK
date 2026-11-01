@@ -69,9 +69,10 @@ nohup python3 -u alarm_no_pip.py > alarm.log 2>&1 &
 
 ## 📸 效果展示
 
-(在这里插入你的截图，例如：)
-screenshots/01_dashboard.png
-screenshots/02_ai_judgment.png
+<img width="1285" height="400" alt="AI_智能降噪与研判" src="https://github.com/user-attachments/assets/02eacbb1-e764-46c4-8af4-3c312d81b14a" />
+<img width="1577" height="347" alt="AI智能降维打击_免封禁" src="https://github.com/user-attachments/assets/caa4a3a4-2646-4b2b-98d7-351878124b52" />
+<img width="1497" height="417" alt="RAG" src="https://github.com/user-attachments/assets/510cabd8-5e3c-43a5-9fb6-f06d4af5e2a3" />
+
 
 ## ⚠️ 免责声明
 
